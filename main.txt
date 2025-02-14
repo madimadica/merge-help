@@ -2,6 +2,7 @@ a
 b
 o
 c
+o
 d
 e
 f
