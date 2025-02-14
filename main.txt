@@ -1,5 +1,6 @@
 a
 b
+o
 c
 d
 e
@@ -9,6 +10,7 @@ f
 a
 b
 c
+o
 d
 e
 f
